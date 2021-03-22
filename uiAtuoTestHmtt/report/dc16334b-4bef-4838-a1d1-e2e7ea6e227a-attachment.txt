@@ -1,0 +1,12 @@
+[32mINFO    [0m root:base.py:13 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="e46713b53fdef1b1364f0f30fb2d2d97")>
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', "[placeholder='请输入手机号']")
+[32mINFO    [0m root:base.py:41 正在对：('css selector', "[placeholder='请输入手机号']") 元素执行清空操作
+[32mINFO    [0m root:base.py:44 正在对：('css selector', "[placeholder='请输入手机号']") 元素执行输入：15727366536 操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', "[placeholder='验证码']")
+[32mINFO    [0m root:base.py:41 正在对：('css selector', "[placeholder='验证码']") 元素执行清空操作
+[32mINFO    [0m root:base.py:44 正在对：('css selector', "[placeholder='验证码']") 元素执行输入：246810 操作！
+[32mINFO    [0m root:base.py:55 正在对：('css selector', '.el-button--primary') 元素执行点击操作
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', '.el-button--primary')
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', '.user-name')
+[1m[31mERROR   [0m root:base.py:71 断言出错，正在执行截图操作！
+[1m[31mERROR   [0m root:base.py:74 断言出错，正在将错误图片写入报告！

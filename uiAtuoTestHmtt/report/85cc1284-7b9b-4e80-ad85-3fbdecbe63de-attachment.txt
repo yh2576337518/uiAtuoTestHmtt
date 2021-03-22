@@ -1,0 +1,13 @@
+[32mINFO    [0m root:base.py:13 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="f86a8111b38b0f6ae708c3f32d2e359a")>
+[32mINFO    [0m root:page_mis_login.py:31 正在调用后台管理系统登录页方法，用户名：testid，密码：testpwd123
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', "[name='username']")
+[32mINFO    [0m root:base.py:41 正在对：('css selector', "[name='username']") 元素执行清空操作
+[32mINFO    [0m root:base.py:44 正在对：('css selector', "[name='username']") 元素执行输入：testid 操作！
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', "[name='password']")
+[32mINFO    [0m root:base.py:41 正在对：('css selector', "[name='password']") 元素执行清空操作
+[32mINFO    [0m root:base.py:44 正在对：('css selector', "[name='password']") 元素执行输入：testpwd123 操作！
+[32mINFO    [0m root:base.py:55 正在对：('css selector', '#inp1') 元素执行点击操作
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', '#inp1')
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', '.user_info')
+[32mINFO    [0m root:base.py:66 正在对：('css selector', '.user_info') 元素获取文本，获取的文本值为：欢迎 管理员
+[32mINFO    [0m root:base.py:26 正在查找元素：('css selector', '.user_info')
